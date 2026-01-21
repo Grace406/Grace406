@@ -1,4 +1,4 @@
-Hi, I’m Gracie.
+Hi, I’m Grace.
 
 Front-End Developer | HTML, CSS, JavaScript | Learning React
 
