@@ -26,7 +26,7 @@ Additional projects focused on JavaScript fundamentals and React are planned and
 HTML | CSS | JavaScript | React (learning) | VS Code | Git & GitHub
 
 ## Contact
-- LinkedIn: [Your LinkedIn Link]  
-- Email: [yourname@email.com]  
+- LinkedIn:   [https://www.linkedin.com/in/amalachukwu-udekwe-68a17a348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- Email: [shecodes06@gmail.com]  
 
 I’m open to internships, mentorship, and collaboration. I approach development with *strong fundamentals, curiosity, and intentional growth*, always aiming to create useful and interactive experiences.
