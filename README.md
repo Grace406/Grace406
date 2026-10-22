@@ -6,8 +6,10 @@ I build responsive, user-friendly web interfaces and I'm growing into full-stack
 
 ## Currently Building
 
-### ClassCheck (in progress)
-An attendance app that makes sure only students physically present in class can mark attendance, not someone at home. Lecturers start a session and display a short-lived rotating code, and students submit it with a location check. Built with Next.js and TypeScript, with REST API routes and loading, empty, and error states. Jest tests are planned.
+### Mole (in progress)
+**Someone always reminding the lecturer.**
+
+An attendance app that only counts students who are physically in class. Lecturers start a session and display a short-lived rotating code, and students submit it with a location check, so nobody can mark attendance from home. Built with Next.js and TypeScript, with REST API routes and loading, empty, and error states. Jest tests are planned.
 
 ## Featured Projects
 
@@ -21,20 +23,8 @@ Three responsive, mobile-first screens (home, sign-in, onboarding) built from Fi
 My developer portfolio, showcasing my projects, skills, and experience. Designed and built from scratch with plain HTML, CSS, and JavaScript, and deployed on Netlify.
 - Live site: https://ama-dev-portfolio.netlify.app/
 
-## Other Projects
-
-### QR Code Component (Frontend Mentor)
-A responsive UI component built with semantic HTML and CSS, focused on clean, component-based structure.
-- Repo: https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component
-- Live demo: https://grace406.github.io/Gracie-s-Frontend-Mentor-QR-code-component/
-
-### To-Do List
-A vanilla JavaScript practice project focused on DOM manipulation, with add and complete functionality.
-- Live demo: https://my-mini-todo-web.netlify.app/
-
 ## What I'm Focused On
 - Frontend development with TypeScript, React and Next.js
-- Learning by building: applying these skills to a task recording system for my industrial training at ipNX Nigeria
 - Responsive and accessible web design
 - Writing clean, readable, maintainable code
 - Growing into a well-rounded full-stack developer
